@@ -1,0 +1,18 @@
+# local env
+.env
+
+# virtualenv
+.venv/
+venv/
+
+# python cache
+__pycache__/
+*.pyc
+
+# local runtime data
+data/app.db
+data/screenshots/
+data/demo_last_run.json
+
+# local searxng
+searxng/
